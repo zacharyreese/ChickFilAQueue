@@ -11,7 +11,9 @@ This was a project in my data structures class that uses JavaFX and SceneBuilder
 
 * Authors:
     * Zachary Reese
+    * Gregory Disser
 
 Zachary Reese – zactreese@gmail.com
+
 Gregory Disser - gdisser@gmail.com
 
